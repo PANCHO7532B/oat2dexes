@@ -19,4 +19,5 @@ DEX magic "dex\n035\0".
 You can also use the build.sh script for build an binary :D
 ### Note about my (PANCHO7532) fork
 This project is a fork from: [https://github.com/wuyongzheng/oat2dexes](https://github.com/wuyongzheng/oat2dexes)
+
 Using zero skill and experience on the C language i implemented some stuff to detect dex files with the same name and increment it's number value for avoid overwriting, i tested it only on Linux so therefore i don't guarantee that this will work on Windows as well.
